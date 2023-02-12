@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheGriddyGitty 
-- 👀 I’m interested in coding many mechanisms.
+- 👀 Working on Luma3DS - 3GX
 - 🌱 I’m currently learning about how to code properly.
 
 <!---
